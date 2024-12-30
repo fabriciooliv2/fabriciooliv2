@@ -16,3 +16,14 @@ especializar, me tornar um Engenheiro de Software / Arquiteto de Soluções.
 ![image](https://github.com/fabriciooliv/fabriciooliv/assets/146496164/3bebafbf-df4e-406d-97d4-1216e3947974)
 ![image](https://github.com/fabriciooliv/fabriciooliv/assets/146496164/5d7f593c-68f1-4669-b59e-df3079cd8de0)
 ![image](https://github.com/fabriciooliv/fabriciooliv/assets/146496164/ed393bdf-5f90-4d93-ab49-2d1d1b36fd36)
+
+  ##
+ 
+<div> 
+  <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/@Eng_Fabricio_Oliveira)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="[https://instagram.com/rafaballerini](https://instagram.com/fabricios.o?igshid=MzMyNGUyNmU2YQ==)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatosofabricio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/engfabricio-oliveira/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://linktr.ee/Fabricio_Oliv" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+  
+</div>
