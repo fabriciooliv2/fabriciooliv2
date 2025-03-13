@@ -35,4 +35,3 @@ Estou em busca de oportunidades que me permitam aplicar minhas habilidades de **
 
 - ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) [Fabricio no YouTube](https://www.youtube.com/@Fabricio_Oliveira83)
 - ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [Fabricio no Instagram](https://instagram.com/fabricios.o?igshid=MzMyNGUyNmU2YQ==)
-- ![
